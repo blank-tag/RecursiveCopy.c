@@ -32,10 +32,6 @@ void copy_file(char *dest_dir, char *src_dir, char * filename )
 	}
  
 
-/*adding the files in temp buffer to read and move files from directory*/
-
-
-
  
 }
 
